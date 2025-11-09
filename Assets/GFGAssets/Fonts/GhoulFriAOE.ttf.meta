@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5e316f776590d8a41b2055e66ad1a5d5
+timeCreated: 1506882322
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ghoulish Fright AOE
+  fontNames:
+  - Ghoulish Fright AOE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
